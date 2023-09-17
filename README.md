@@ -18,7 +18,7 @@
 
 ## Connect with Me
 - 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/steven-savarin)
-- 🌐 Visit my portfolio: [www.stevensawarin.com](https://www.stevensawarin.com)
+- 🌐 Visit my portfolio: [www.stevensawarin.com](stevensawarin.com)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevensavarin&show_icons=true&theme=dark)
