@@ -17,9 +17,10 @@
 - 🌟 [Project 2](link-to-project-2): An exciting project that I worked on.
 
 ## Connect with Me
-- 📫 Feel free to reach out: [LinkedIn](www.linkedin.com/in/steven-savarin)
-- 🌐 Visit my portfolio: [www.stevensavarin.com](www.linkedin.com/in/steven-savarin)
+- 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/steven-savarin)
+- 🌐 Visit my portfolio: [www.stevensavarin.com](https://www.stevensavarin.com)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
 
