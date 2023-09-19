@@ -12,9 +12,9 @@
 <div align="center">
   
 # 💫About Me :
-- 🌟 Full Stack Developer
-- 🚀 Passionate about coding and technology
-- 📚 Lifelong learner always exploring new technologies
+ 🌟 Full Stack Developer
+ 🚀 Passionate about coding and technology
+ 📚 Lifelong learner always exploring new technologies
 
   📫 How to reach me:  
   Mail me at "sawarinsteven@gmail.com" or 
