@@ -1,11 +1,10 @@
-<center>
-  <h3>Welcome to Steven profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h3>
-  <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+;My+name+is+Steven+%3A);I'm+studying+at+BYU+Idaho+University;I'm+a+software+developer" alt="Typing SVG" /></a>
-  </p>
-</center>
+ <h3 align="center">
+  Welcome to Steven profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+;My+name+is+Steven+%3A);I'm+studying+at+BYU+Idaho+University;I'm+a+software+developer" alt="Typing SVG" /></a>
+</p>
 
 
 ---
