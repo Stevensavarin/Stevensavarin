@@ -46,6 +46,8 @@
 [![Hostinger](https://img.shields.io/badge/Hostinger-%23F6851B.svg?style=for-the-badge&logo=hostinger&logoColor=white)](https://www.hostinger.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-%232C3E50.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-%232176AE.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
 
 # 📊GitHub Stats :
