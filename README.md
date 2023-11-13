@@ -24,7 +24,7 @@
 
 
 ## 🌐Socials
-[![Nuevo Logo de X](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://twitter.com/StevenSaWarin)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Nuevo Logo de X" width="2%">](https://twitter.com/StevenSaWarin)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:srssdesing@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/steven-savarin/)
 
