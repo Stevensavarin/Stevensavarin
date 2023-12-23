@@ -60,9 +60,6 @@
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=Stevensavarin&label=Visitors+Count&color=brightgreen)
+
+![image](https://github.com/Stevensavarin/Stevensavarin/assets/137004357/a4d1a526-c7cc-45d5-8a0c-54c81fe7007f)
 </div>
-
-<p align="center">
-  <img src="https://github.com/Stevensavarin/Stevensavarin/raw/main/assets/137004357/a4d1a526-c7cc-45d5-8a0c-54c81fe7007f.jpg" alt="Descripción de la imagen">
-</p>
-
