@@ -61,5 +61,6 @@
 
 ![](https://komarev.com/ghpvc/?username=Stevensavarin&label=Visitors+Count&color=brightgreen)
 
-![image](https://github.com/Stevensavarin/Stevensavarin/assets/137004357/a4d1a526-c7cc-45d5-8a0c-54c81fe7007f)
+![image](https://github.com/Stevensavarin/Stevensavarin/assets/137004357/42163bdb-0b4c-41f7-a8aa-544ec4cf6a86)
+
 </div>
