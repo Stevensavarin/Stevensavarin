@@ -51,14 +51,9 @@
 
 
 # 📊GitHub Stats :
-# Estadísticas de GitHub
-![Actividad General](https://github-readme-stats.vercel.app/api?username=Stevensavarin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-# Racha de Contribuciones
-![Racha](https://github-readme-streak-stats.herokuapp.com/?user=Stevensavarin&theme=radical&hide_border=false)
-
-# Lenguajes de Programación Utilizados
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevensavarin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Stevensavarin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Stevensavarin&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevensavarin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
