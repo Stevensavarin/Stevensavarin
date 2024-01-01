@@ -48,6 +48,9 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Vagrant](https://img.shields.io/badge/Vagrant-%232C3E50.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-%232176AE.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+
 
 
 # 📊GitHub Stats :
