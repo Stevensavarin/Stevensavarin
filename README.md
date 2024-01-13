@@ -50,6 +50,13 @@
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-%232176AE.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Paramiko](https://img.shields.io/badge/Paramiko-771E1C?style=for-the-badge&logo=python&logoColor=white)](http://www.paramiko.org/)
+[![Fabric](https://img.shields.io/badge/Fabric-2C2D72?style=for-the-badge&logo=fabric&logoColor=white)](http://www.fabfile.org/)
+
+
 
 
 
