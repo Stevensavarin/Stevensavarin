@@ -55,9 +55,9 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Paramiko](https://img.shields.io/badge/Paramiko-771E1C?style=for-the-badge&logo=python&logoColor=white)](http://www.paramiko.org/)
 [![Fabric](https://img.shields.io/badge/Fabric-2C2D72?style=for-the-badge&logo=fabric&logoColor=white)](http://www.fabfile.org/)
-
-
-
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
 # 📊GitHub Stats :
