@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
- 🌟 Full Stack Developer
+ 🌟 Software Developer
  
  🚀 Passionate about coding and technology
  
